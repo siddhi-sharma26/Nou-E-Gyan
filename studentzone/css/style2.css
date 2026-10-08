@@ -1,0 +1,25 @@
+.section{
+	height:200px;
+	width:200px;
+	background-color:white;
+	margin:0px auto;
+	border-radius:50px 0px 50px 0px;
+	overflow:hidden;
+}
+
+.section img{
+	width:100%
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
